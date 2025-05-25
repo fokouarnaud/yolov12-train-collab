@@ -5,7 +5,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-red.svg)](https://pytorch.org/)
 [![Ultralytics](https://img.shields.io/badge/Ultralytics-8.0+-green.svg)](https://github.com/ultralytics/ultralytics)
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fokouarnaud/yolov12-face/blob/main/YOLOv12_Face_Colab_Complete.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fokouarnaud/yolov12-train-collab/blob/main/YOLOv12_Face_Colab_Complete.ipynb)
 
 ## 📋 Vue d'Ensemble
 
@@ -81,7 +81,7 @@ reconnaissance_Facial_v12/
 
 ### **Option 1: Google Colab (Recommandée)**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fokouarnaud/yolov12-face/blob/main/YOLOv12_Face_Colab_Complete.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fokouarnaud/yolov12-train-collab/blob/main/YOLOv12_Face_Colab_Complete.ipynb)
 
 1. **Ouvrir le notebook** Colab ci-dessus
 2. **Exécuter toutes les cellules** (Ctrl+F9)
@@ -471,4 +471,4 @@ SOFTWARE.
 
 **⭐ N'oubliez pas de donner une étoile si ce projet vous aide !**
 
-</div>
+</div>``
