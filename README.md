@@ -472,4 +472,3 @@ SOFTWARE.
 **⭐ N'oubliez pas de donner une étoile si ce projet vous aide !**
 
 </div>
-# yolov12-train-collab
